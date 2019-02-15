@@ -8,9 +8,9 @@ This SIG will bring together researchers, educators, and practitioners with thre
 We are proposing this SIG in response to a growing interest in learning-related papers, as signaled by a 40% increase in CHI submissions relating to learning in recent years and the creation of the _Learning, Education, and Families_ subcommittee for CHI 2019.
 
 # Learn more
-![Cover page of Learning, Education, and HCI write-up][img-siglearn]
+[![Cover page of Learning, Education, and HCI write-up][img-siglearn]][writeup]
 
-To learn more about our SIG, read our short [write-up on our SIG on Learning, Education, and HCI](http://benjixie.com/wp-content/uploads/2019chi.pdf) (accepted to CHI 2019).
+To learn more about our SIG, read our short [write-up on our SIG on Learning, Education, and HCI][writeup] (accepted to CHI 2019).
 
 # Get involved!
 
@@ -30,3 +30,4 @@ Reach out to [Benji Xie](http://benjixie.com) (PhD student, Univ of Washington) 
 - Joseph Jay Williams (University of Toronto)
 
 [img-siglearn]: img/siglearn-drop.png
+[writeup]: 2019chi_learnEduHci.pdf
