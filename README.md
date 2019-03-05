@@ -1,4 +1,4 @@
-**To better support HCI in learning and educational contexts, we are hosting a special interest group (SIG) for CHI 2019**. 
+A CHI 2019 special interest group (SIG) to support HCI in learning and educational contexts. 
 
 This SIG will bring together researchers, educators, and practitioners with three goals in mind: 
 1. Discussing more inclusive cross-disciplinary perspectives on learning.
@@ -6,6 +6,29 @@ This SIG will bring together researchers, educators, and practitioners with thre
 3. Building community across research/practice boundaries.
 
 We are proposing this SIG in response to a growing interest in learning-related papers, as signaled by a 40% increase in CHI submissions relating to learning in recent years and the creation of the _Learning, Education, and Families_ subcommittee for CHI 2019.
+
+# Get involved!
+
+Are you a researcher, professional, educator, or caring human interested in how we interact with technology in the learning contexts? 
+Then find out more and/or getting involved!
+
+<p style="text-align:center">
+<a href="https://goo.gl/forms/ndAZfPZFz3GKSmKw2" style="color: #fff;
+                                                            background-color: #17a2b8;
+                                                            display: inline-block;
+                                                            border: 1px solid transparent;
+                                                            padding: .375rem .75rem;
+                                                            border-radius: .25rem;
+                                                            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
+                                                            target="_blank"
+                                                            >
+    Take a brief survey to inform the design of this SIG!
+</a>
+</p> 
+
+- Tell us what you would like to see at the SIG by filling out our brief survey (linked above).
+- Attend our SIG at CHI '19 ([CHI schedule](https://chi2019.acm.org/for-attendees/full-schedule-of-events/)).
+- Reach out to [Benji Xie](http://benjixie.com) (Univ of Washington) on Twitter ([@benjixie](https://twitter.com/benjixie)) or by email (bxie@uw.edu).
 
 # Learn more
 <div style="text-align:center">
@@ -20,20 +43,11 @@ We are proposing this SIG in response to a growing interest in learning-related 
 
 To learn more about our SIG, read our short [write-up on our SIG on Learning, Education, and HCI][writeup] (accepted to CHI 2019).
 
-# Get involved!
-
-Are you a researcher, professional, educator, or caring human interested in how we interact with technology in the learning contexts? 
-Then find out more and/or getting involved! 
-
-Attend our SIG at CHI '19 ([CHI schedule](https://chi2019.acm.org/for-attendees/full-schedule-of-events/)).
-
-Reach out to [Benji Xie](http://benjixie.com) (PhD student, Univ of Washington) on Twitter ([@benjixie](https://twitter.com/benjixie)) or by email (bxie@uw.edu).
-
 # Schedule for SIG at CHI '19
 _Coming soon!_
 
 # Organizers
-We are faculty, researchers, and students from eight universities from three countries with diverse perspectives on learning, education, and HCI.
+We are faculty, researchers, and students from eight universities from four countries with diverse perspectives on learning, education, and HCI.
 - Benjamin Xie (Univ. of Washington)
 - Erik Harpstead (Carnegie Mellon University)
 - Betsy DiSalvo (Georgia Institute of Technology)
@@ -46,3 +60,4 @@ We are faculty, researchers, and students from eight universities from three cou
 
 [img-siglearn]: img/siglearn-drop.png
 [writeup]: 2019chi_learnEduHci.pdf
+[pre-survey]: https://goo.gl/forms/1YrwRPDikSm9Yprt2
