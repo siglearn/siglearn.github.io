@@ -16,7 +16,7 @@ Join us at CHI! Our SIG on Learning, Education, & Families is on **Monday, 11:00
 </p> 
 
 <p style="text-align:center">
-<a href="tiny.cc/siglearn" style="color: #fff;
+<a href="https://tiny.cc/siglearn" style="color: #fff;
                                                             background-color: #17a2b8;
                                                             display: inline-block;
                                                             border: 1px solid transparent;
