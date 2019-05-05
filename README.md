@@ -1,4 +1,4 @@
-# CHI 2019 Info: Mon 11AM in Shuna/Staffa
+# CHI 2019: Mon 11AM in Crown Plaza Shuna/Staffa
 Join us at CHI! Your SIG on Learning, Education, & Families is on **Monday, 11:00-12:20 in the Crown Plaza Shuna/Staffa room** (known as Island A CROWNE on the [online CHI program](https://chi2019.acm.org/web-program.php?sessionId=490ec4bc0189dea42e8ec387497673627b71a070ab3a703facadd7cf4f7a6725))
 
 # Overview
