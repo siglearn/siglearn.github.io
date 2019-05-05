@@ -1,6 +1,34 @@
 # CHI 2019: Mon 11AM in Crown Plaza Shuna/Staffa
 Join us at CHI! Our SIG on Learning, Education, & Families is on **Monday, 11:00-12:20 in the Crown Plaza Shuna/Staffa room** (known as Island A CROWNE on the [online CHI program](https://chi2019.acm.org/web-program.php?sessionId=490ec4bc0189dea42e8ec387497673627b71a070ab3a703facadd7cf4f7a6725))
 
+<p style="text-align:center">
+<a href="https://forms.gle/LxcKyfPAYBhhhTx87" style="color: #fff;
+                                                            background-color: #F79256;
+                                                            display: inline-block;
+                                                            border: 1px solid transparent;
+                                                            padding: .375rem .75rem;
+                                                            border-radius: .25rem;
+                                                            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
+                                                            target="_blank"
+                                                            >
+    take a brief survey to inform the SIG Learn community
+</a>
+</p> 
+
+<p style="text-align:center">
+<a href="tiny.cc/siglearn" style="color: #fff;
+                                                            background-color: #17a2b8;
+                                                            display: inline-block;
+                                                            border: 1px solid transparent;
+                                                            padding: .375rem .75rem;
+                                                            border-radius: .25rem;
+                                                            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
+                                                            target="_blank"
+                                                            >
+    contribute to our SIG's shared gdoc
+</a>
+</p> 
+
 # Overview
 A CHI 2019 special interest group (SIG) to support HCI in learning and educational contexts. 
 
@@ -28,20 +56,6 @@ To learn more about our SIG, read our short [write-up on our SIG on Learning, Ed
 
 Are you a researcher, professional, educator, or caring human interested in how we interact with technology in the learning contexts? 
 Then find out more and/or getting involved!
-
-<p style="text-align:center">
-<a href="https://goo.gl/forms/ndAZfPZFz3GKSmKw2" style="color: #fff;
-                                                            background-color: #17a2b8;
-                                                            display: inline-block;
-                                                            border: 1px solid transparent;
-                                                            padding: .375rem .75rem;
-                                                            border-radius: .25rem;
-                                                            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
-                                                            target="_blank"
-                                                            >
-    Take a brief survey to inform the design of this SIG!
-</a>
-</p> 
 
 - Tell us what you would like to see at the SIG by filling out our brief survey (linked above).
 - Attend our SIG at CHI '19 ([CHI program](https://chi2019.acm.org/web-program.php?sessionId=490ec4bc0189dea42e8ec387497673627b71a070ab3a703facadd7cf4f7a6725)).
