@@ -59,20 +59,29 @@ Then find out more and/or getting involved!
 
 - Tell us what you would like to see at the SIG by filling out our brief survey (linked above).
 - Attend our SIG at CHI '19 ([CHI program](https://chi2019.acm.org/web-program.php?sessionId=490ec4bc0189dea42e8ec387497673627b71a070ab3a703facadd7cf4f7a6725)).
-- Reach out to [Benji Xie](http://benjixie.com) (Univ of Washington) on Twitter ([@benjixie](https://twitter.com/benjixie)) or by email (bxie@uw.edu).
+- Reach out to [Benji Xie](http://benjixie.com) (Univ of Washington) on Twitter ([@benjixie][twitter-benji]) or by email (bxie@uw.edu).
 
 # Organizers
 We are faculty, researchers, and students from eight universities from four countries with diverse perspectives on learning, education, and HCI.
-- Benjamin Xie (Univ. of Washington)
-- Erik Harpstead (Carnegie Mellon University)
-- Betsy DiSalvo (Georgia Institute of Technology)
-- Petr Slovak (King’s College London)
-- Ahmed Kharrufa (Newcastle University)
-- Michael J. Lee (New Jersey Institute of Technology)
-- Viktoria Pammer-Schindler (Graz University of Technology)
-- Amy Ogan (Carnegie Mellon University)
-- Joseph Jay Williams (University of Toronto)
+- Benjamin Xie (Univ. of Washington). [@benjixie][twitter-benji]
+- Erik Harpstead (Carnegie Mellon University). [@eharpstead][twitter-erik]
+- Betsy DiSalvo (Georgia Institute of Technology) [@BetCD][twitter-betsy]
+- Petr Slovak (King’s College London)[@ozzulak][twitter-petr]
+- Ahmed Kharrufa (Newcastle University)[@ankharrufa][twitter-ahmed]
+- Michael J. Lee (New Jersey Institute of Technology) [@michaellee][twitter-mike]
+- Viktoria Pammer-Schindler (Graz University of Technology) [@ViktoriaPammer][twitter-viktoria]
+- Amy Ogan (Carnegie Mellon University) [@amyogan][twitter-amy]
+- Joseph Jay Williams (University of Toronto). [@josephjwilliams][twitter-joseph]
 
 [img-siglearn]: img/siglearn-drop.png
 [writeup]: 2019chi_learnEduHci.pdf
 [pre-survey]: https://goo.gl/forms/1YrwRPDikSm9Yprt2
+[twitter-benji]: https://twitter.com/benjixie
+[twitter-erik]: https://twitter.com/eharpstead
+[twitter-joseph]: https://twitter.com/josephjwilliams
+[twitter-viktoria]: https://twitter.com/ViktoriaPammer
+[twitter-amy]: https://twitter.com/amyogan
+[twitter-mike]: https://twitter.com/michaellee
+[twitter-ahmed]: https://twitter.com/ankharrufa
+[twitter-petr]: https://twitter.com/ozzulak
+[twitter-betsy]: https://twitter.com/BetCD
