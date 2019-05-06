@@ -2,7 +2,7 @@
 Join us at CHI! Our SIG on Learning, Education, & Families is on **Monday, 11:00-12:20 in the Crowne Plaza, Shuna/Staffa room** (known as _Island A CROWNE_ on the [online CHI program](https://chi2019.acm.org/web-program.php?sessionId=490ec4bc0189dea42e8ec387497673627b71a070ab3a703facadd7cf4f7a6725))
 
 <p style="text-align:center">
-<a href="https://forms.gle/LxcKyfPAYBhhhTx87" style="color: #fff;
+<a href="https://docs.google.com/document/d/1Xs4NaM3V-dERrLFERKBfQsxZ2Kblj-BRLeU8HMFiQQY/edit?usp=sharing" style="color: #fff;
                                                             background-color: #F79256;
                                                             display: inline-block;
                                                             border: 1px solid transparent;
@@ -11,7 +11,7 @@ Join us at CHI! Our SIG on Learning, Education, & Families is on **Monday, 11:00
                                                             transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
                                                             target="_blank"
                                                             >
-    take a brief survey to inform the SIG Learn community
+    List of learning & edu papers at CHI 2019
 </a>
 </p> 
 
@@ -25,7 +25,7 @@ Join us at CHI! Our SIG on Learning, Education, & Families is on **Monday, 11:00
                                                             transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;"
                                                             target="_blank"
                                                             >
-    contribute to our SIG's shared gdoc
+    See our SIG's shared gdoc
 </a>
 </p> 
 
