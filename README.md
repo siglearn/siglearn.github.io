@@ -65,12 +65,12 @@ Then find out more and/or getting involved!
 We are faculty, researchers, and students from eight universities from four countries with diverse perspectives on learning, education, and HCI.
 - Benjamin Xie (Univ. of Washington). [@benjixie][twitter-benji]
 - Erik Harpstead (Carnegie Mellon University). [@eharpstead][twitter-erik]
-- Betsy DiSalvo (Georgia Institute of Technology) [@BetCD][twitter-betsy]
-- Petr Slovak (King’s College London)[@ozzulak][twitter-petr]
-- Ahmed Kharrufa (Newcastle University)[@ankharrufa][twitter-ahmed]
-- Michael J. Lee (New Jersey Institute of Technology) [@michaellee][twitter-mike]
-- Viktoria Pammer-Schindler (Graz University of Technology) [@ViktoriaPammer][twitter-viktoria]
-- Amy Ogan (Carnegie Mellon University) [@amyogan][twitter-amy]
+- Betsy DiSalvo (Georgia Institute of Technology). [@BetCD][twitter-betsy]
+- Petr Slovak (King’s College London). [@ozzulak][twitter-petr]
+- Ahmed Kharrufa (Newcastle University). [@ankharrufa][twitter-ahmed]
+- Michael J. Lee (New Jersey Institute of Technology). [@michaellee][twitter-mike]
+- Viktoria Pammer-Schindler (Graz University of Technology). [@ViktoriaPammer][twitter-viktoria]
+- Amy Ogan (Carnegie Mellon University). [@amyogan][twitter-amy]
 - Joseph Jay Williams (University of Toronto). [@josephjwilliams][twitter-joseph]
 
 [img-siglearn]: img/siglearn-drop.png
